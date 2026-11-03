@@ -4,7 +4,7 @@
 
 Casse-briques rétro pour Android, de style Amiga : 60 tableaux de prismes à faire voler en éclats, 4 modes de jeu, des boss, un Défi du jour et un éditeur de tableaux.
 
-**[Télécharger la dernière version](https://github.com/Laurent-67370/prism-smash/releases/latest)** (`prism-smash.apk`, Android 7.0 ou plus récent). **[Jouer dans le navigateur](https://laurent-67370.github.io/crystal-hammer/)**, sans installation.
+**[Télécharger la dernière version](https://github.com/Laurent-67370/prism-smash/releases/latest)** (`prism-smash.apk`, Android 7.0 ou plus récent). **[Jouer dans le navigateur](https://laurent-67370.github.io/crystal-hammer/)**, sans installation. **[Voir la vidéo](https://www.youtube.com/watch?v=GK_K2pwBFAo)** (26 s).
 
 <p>
   <img src="captures/accueil.png" width="200" alt="Accueil">
@@ -31,4 +31,4 @@ Casse-briques rétro pour Android, de style Amiga : 60 tableaux de prismes à fa
 
 Retro Amiga-style brick breaker for Android: 60 stages of prisms to shatter, 4 game modes (Classic, Time Attack, Survival, Daily Challenge), bosses, a stage editor with shareable links, 10 power-ups, explosive and treasure crystals, 14 achievements, optional Google Play Games world leaderboards and an original Amiga-style soundtrack. No ads, no account to create, fully playable offline.
 
-**[Download the latest version](https://github.com/Laurent-67370/prism-smash/releases/latest)** · **[Play in your browser](https://laurent-67370.github.io/crystal-hammer/)** · [Privacy policy](PRIVACY.md)
+**[Download the latest version](https://github.com/Laurent-67370/prism-smash/releases/latest)** · **[Play in your browser](https://laurent-67370.github.io/crystal-hammer/)** · [Watch the video](https://www.youtube.com/watch?v=GK_K2pwBFAo) · [Privacy policy](PRIVACY.md)
