@@ -4,7 +4,7 @@
 
 Casse-briques rétro pour Android, de style Amiga : 60 tableaux de prismes à faire voler en éclats, 4 modes de jeu, des boss, un Défi du jour et un éditeur de tableaux.
 
-**[Télécharger la dernière version](https://github.com/Laurent-67370/prism-smash/releases/latest)** (`prism-smash.apk`, Android 6.0 ou plus récent). **[Jouer dans le navigateur](https://laurent-67370.github.io/crystal-hammer/)**, sans installation.
+**[Télécharger la dernière version](https://github.com/Laurent-67370/prism-smash/releases/latest)** (`prism-smash.apk`, Android 7.0 ou plus récent). **[Jouer dans le navigateur](https://laurent-67370.github.io/crystal-hammer/)**, sans installation.
 
 <p>
   <img src="captures/accueil.png" width="200" alt="Accueil">
